@@ -1,0 +1,40 @@
+/*
+ * Plugin admin css
+ */
+.pntrst-widget-url {
+	word-wrap: break-word;
+}
+.pntrst_pro_version_show {
+	max-width: 100%;
+}
+/*
+ * Plugin frontend css
+ */
+.pntrst-custom-pin {
+	cursor: pointer;
+	vertical-align: bottom;
+}
+.pntrst-widget span {
+	min-width: 0 !important;
+}
+.pntrst-button-wrap {
+	display: inline-block;
+	margin: 0 5px 5px 0;
+}
+.rtl .pntrst-button-wrap {
+	display: inline-block;
+	margin: 0 0 5px 5px;
+}
+.pntrst-button-wrap span {
+	vertical-align: bottom;
+}
+.pntrst_style_add_large_folow_button span {
+	font-size: 16px !important;
+	padding: 4px 6px 0 25px !important;
+}
+.rtl .pntrst-button-wrap span {
+	padding-left: 28px !important;
+}
+.pntrst_main_before_after {
+	display: flex;
+}

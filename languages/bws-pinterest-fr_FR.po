@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-05-24 19:24+0300\n"
+"PO-Revision-Date: 2024-05-24 19:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: bws-pinterest.php:38 bws-pinterest.php:39 bws-pinterest.php:262
+#: includes/class-pntrst-settings.php:202
+msgid "Pinterest Settings"
+msgstr "Réglages Pinterest"
+
+#: bws-pinterest.php:39 bws-pinterest.php:752 bws-pinterest.php:772
+#: includes/class-pntrst-settings.php:28
+msgid "Settings"
+msgstr "Réglages"
+
+#: bws-pinterest.php:44
+msgid "Upgrade to Pro"
+msgstr "Passer à la version Pro"
+
+#: bws-pinterest.php:236
+msgid "Follow me"
+msgstr "Suivez-moi"
+
+#: bws-pinterest.php:265
+msgid "WARNING"
+msgstr "AVERTISSEMENT"
+
+#: bws-pinterest.php:266
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr "Le plugin ne fonctionne correctement que si JavaScript est activé."
+
+#: bws-pinterest.php:564
+msgid "Shortcode Type"
+msgstr "Type de Shortcode"
+
+#: bws-pinterest.php:566 includes/class-pntrst-settings.php:339
+msgid "Follow Button"
+msgstr "Bouton Suivez-nous"
+
+#: bws-pinterest.php:567 includes/class-pntrst-settings.php:269
+msgid "Save Button"
+msgstr "Bouton Enregistrer"
+
+#: bws-pinterest.php:568 includes/class-pinterest-widget.php:113
+#: includes/class-pinterest-widget.php:138
+msgid "Pin Widget"
+msgstr "Widget d'épinglage"
+
+#: bws-pinterest.php:569 includes/class-pinterest-widget.php:119
+#: includes/class-pinterest-widget.php:139
+msgid "Board Widget"
+msgstr "Widget du conseil d'administration"
+
+#: bws-pinterest.php:570 includes/class-pinterest-widget.php:125
+msgid "Profile Widget"
+msgstr "Widget de profil"
+
+#: bws-pinterest.php:574
+msgid "Button label"
+msgstr "Texte du bouton"
+
+#: bws-pinterest.php:578
+msgid "Save any image"
+msgstr "Enregistrer n'importe quelle image"
+
+#: bws-pinterest.php:579
+msgid "Save defined image"
+msgstr "Enregistrer l'image définie"
+
+#: bws-pinterest.php:580
+msgid "Pin image URL"
+msgstr "URL de l'image de l'épingle"
+
+#: bws-pinterest.php:581
+msgid "Custom button image"
+msgstr "Image du bouton personnalisé"
+
+#: bws-pinterest.php:582
+msgid "Custom image URL"
+msgstr "URL de l'image personnalisée"
+
+#: bws-pinterest.php:586 includes/class-pinterest-widget.php:134
+msgid "URL"
+msgstr "URL"
+
+#: bws-pinterest.php:591 includes/class-pinterest-widget.php:148
+msgid "Size"
+msgstr "Taille"
+
+#: bws-pinterest.php:593 includes/class-pinterest-widget.php:150
+#: includes/class-pntrst-settings.php:320
+msgid "Small"
+msgstr "Petit"
+
+#: bws-pinterest.php:594 includes/class-pinterest-widget.php:151
+msgid "Medium"
+msgstr "Moyen"
+
+#: bws-pinterest.php:595 includes/class-pinterest-widget.php:152
+#: includes/class-pntrst-settings.php:321
+msgid "Large"
+msgstr "Grand"
+
+#: bws-pinterest.php:600 includes/class-pinterest-widget.php:161
+msgid "Width"
+msgstr "Largeur"
+
+#: bws-pinterest.php:601 includes/class-pinterest-widget.php:171
+msgid "Height"
+msgstr "Hauteur"
+
+#: bws-pinterest.php:602 includes/class-pinterest-widget.php:181
+msgid "Thumbnails width"
+msgstr "Largeur des vignettes"
+
+#: bws-pinterest.php:774
+msgid "FAQ"
+msgstr "FAQ"
+
+#: bws-pinterest.php:775
+msgid "Support"
+msgstr "Support"
+
+#: includes/class-pinterest-widget.php:25
+msgid "Pinterest Widget"
+msgstr "Widget Pinterest"
+
+#: includes/class-pinterest-widget.php:28
+msgid "Widget for adding Pinterest Pin, Board, and Profile widgets"
+msgstr "Widget pour ajouter des widgets Pinterest Pin, Board et Profile"
+
+#: includes/class-pinterest-widget.php:101
+msgid "Title"
+msgstr "Titre"
+
+#: includes/class-pinterest-widget.php:106
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-pinterest-widget.php:137
+msgid "Examples"
+msgstr "Exemples"
+
+#: includes/class-pinterest-widget.php:166
+#: includes/class-pinterest-widget.php:186
+#, php-format
+msgid ""
+"Min width%1s. If the widget width field is empty, the thumbnail width will "
+"be auto."
+msgstr ""
+"Largeur minimale%1s. Si le champ \"widget width\" est vide, la largeur de la "
+"vignette sera automatique."
+
+#: includes/class-pinterest-widget.php:176
+#, php-format
+msgid "Min height%1s."
+msgstr "Hauteur minimale%1s."
+
+#: includes/class-pntrst-settings.php:30
+msgid "Display"
+msgstr "Afficher"
+
+#: includes/class-pntrst-settings.php:33
+msgid "Misc"
+msgstr "Divers"
+
+#: includes/class-pntrst-settings.php:34
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+#: includes/class-pntrst-settings.php:35
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: includes/class-pntrst-settings.php:70
+msgid ""
+"\"Save\" button location is not selected. The button will be displayed only "
+"via shortcode."
+msgstr ""
+"l'emplacement du bouton \"Enregistrer\" n'est pas sélectionné. Le bouton "
+"sera affiché uniquement via le shortcode."
+
+#: includes/class-pntrst-settings.php:74
+msgid ""
+"\"Follow\" button location is not selected. The button will be displayed "
+"only via shortcode."
+msgstr ""
+"l'emplacement du bouton \"Suivre\" n'est pas sélectionné. Le bouton sera "
+"affiché uniquement via le shortcode."
+
+#: includes/class-pntrst-settings.php:134
+msgid ""
+"Please, enter \"Pinterest User ID\" to add Follow Button. Settings are not "
+"saved."
+msgstr ""
+"Veuillez saisir votre \"ID d'utilisateur Pinterest\" pour ajouter le bouton "
+"\"Suivre\". Les paramètres ne sont pas sauvegardés."
+
+#: includes/class-pntrst-settings.php:155
+#, php-format
+msgid "Error: File size %1s"
+msgstr "Erreur : Taille du fichier %1s"
+
+#: includes/class-pntrst-settings.php:158
+msgid "Error: Invalid file type"
+msgstr "Erreur : Type de fichier non valide"
+
+#: includes/class-pntrst-settings.php:170
+msgid "Error: moving file failed"
+msgstr "Erreur : le déplacement du fichier a échoué"
+
+#: includes/class-pntrst-settings.php:175
+msgid "Can't find upload directory path. Settings are not saved."
+msgstr ""
+"Impossible de trouver le chemin du répertoire de téléchargement. Les "
+"paramètres ne sont pas enregistrés."
+
+#: includes/class-pntrst-settings.php:178
+msgid "Error: select the upload file"
+msgstr "Erreur : sélectionnez le fichier à télécharger"
+
+#: includes/class-pntrst-settings.php:184
+msgid "Settings saved"
+msgstr "Paramètres sauvegardés"
+
+#: includes/class-pntrst-settings.php:205
+msgid "General"
+msgstr "Général"
+
+#: includes/class-pntrst-settings.php:208
+msgid "Pinterest User ID"
+msgstr "Identifiant de l'utilisateur Pinterest"
+
+#: includes/class-pntrst-settings.php:211
+msgid "Enter your Pinterest user ID. For example, \"bestwebsoft\"."
+msgstr "Saisissez votre identifiant Pinterest. Par exemple, \"bestwebsoft\"."
+
+#: includes/class-pntrst-settings.php:215
+msgid "Buttons"
+msgstr "Boutons"
+
+#: includes/class-pntrst-settings.php:220
+#: includes/class-pntrst-settings.php:387
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: includes/class-pntrst-settings.php:225
+#: includes/class-pntrst-settings.php:393
+msgid "Follow"
+msgstr "Suivre"
+
+#: includes/class-pntrst-settings.php:231
+msgid "Language"
+msgstr "Langue"
+
+#: includes/class-pntrst-settings.php:240
+msgid "Select the default language for Pinterest button(-s)."
+msgstr "Sélectionnez la langue par défaut pour le(s) bouton(s) Pinterest."
+
+#: includes/class-pntrst-settings.php:252
+#: includes/class-pntrst-settings.php:256
+#: includes/class-pntrst-settings.php:262
+msgid ""
+"Enable to switch language automatically on multilingual website using "
+"Multilanguage plugin."
+msgstr ""
+"Permet de changer automatiquement la langue sur un site web multilingue en "
+"utilisant le plugin Multilanguage."
+
+#: includes/class-pntrst-settings.php:256
+#, php-format
+msgid "Activate %s"
+msgstr "Activer %s"
+
+#: includes/class-pntrst-settings.php:262
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: includes/class-pntrst-settings.php:272
+#: includes/class-pntrst-settings.php:349
+msgid "Button Position"
+msgstr "Position du bouton"
+
+#: includes/class-pntrst-settings.php:275
+#: includes/class-pntrst-settings.php:352
+msgid "Before content"
+msgstr "Avant le contenu"
+
+#: includes/class-pntrst-settings.php:276
+#: includes/class-pntrst-settings.php:353
+msgid "After content"
+msgstr "Après le contenu"
+
+#: includes/class-pntrst-settings.php:277
+msgid "On image hover"
+msgstr "Au survol sur l'image"
+
+#: includes/class-pntrst-settings.php:282
+msgid "Button Image"
+msgstr "Image de bouton"
+
+#: includes/class-pntrst-settings.php:285
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/class-pntrst-settings.php:286
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/class-pntrst-settings.php:292
+#, php-format
+msgid "Max image size: %1$1s. Allowed file extensions: %2$2s"
+msgstr ""
+"Taille maximale de l'image : %1$1s. Extensions de fichiers autorisées : %2$2s"
+
+#: includes/class-pntrst-settings.php:301
+msgid "Current custom image"
+msgstr "Image personnalisée actuelle"
+
+#: includes/class-pntrst-settings.php:308
+msgid "Button Shape"
+msgstr "Forme du bouton"
+
+#: includes/class-pntrst-settings.php:311
+msgid "Square"
+msgstr "Carré"
+
+#: includes/class-pntrst-settings.php:312
+msgid "Round"
+msgstr "Rond"
+
+#: includes/class-pntrst-settings.php:317
+msgid "Button Size"
+msgstr "Taille du bouton"
+
+#: includes/class-pntrst-settings.php:326
+msgid "Show Pin Count"
+msgstr "Afficher le nombre de broches"
+
+#: includes/class-pntrst-settings.php:329
+msgid "Not shown"
+msgstr "Non illustré"
+
+#: includes/class-pntrst-settings.php:331
+msgid "Above the button"
+msgstr "Au-dessus du bouton"
+
+#: includes/class-pntrst-settings.php:333
+msgid "Beside the button"
+msgstr "A côté du bouton"
+
+#: includes/class-pntrst-settings.php:342
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: includes/class-pntrst-settings.php:345
+msgid "Enter your Pinterest profile name. For example, \"bestwebsoft\"."
+msgstr ""
+"Saisissez le nom de votre profil Pinterest. Par exemple, \"bestwebsoft\"."
+
+#: includes/class-pntrst-settings.php:380
+msgid "Pinterest Buttons Shortcode"
+msgstr "Shortcode pour les boutons Pinterest"
+
+#: includes/class-pntrst-settings.php:383
+msgid "Add Pinterest to a widget."
+msgstr "Ajoutez Pinterest à un widget."
+
+#: includes/class-pntrst-settings.php:383
+msgid "Navigate to Widgets"
+msgstr "Naviguez jusqu’aux widgets"
+
+#: includes/class-pntrst-settings.php:384
+msgid ""
+"Add Pinterest button(-s) to your posts, pages or custom post types using the "
+"following shortcode:"
+msgstr ""
+"Ajoutez le(s) bouton(s) Pinterest à vos articles, pages ou types d'articles "
+"personnalisés à l'aide du shortcode suivant :"
+
+#: includes/class-pntrst-settings.php:407
+msgid "Display Settings"
+msgstr "Paramètres d'affichage"
+
+#: includes/class-pntrst-settings.php:411
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/class-pntrst-settings.php:417
+msgid ""
+"Please choose the necessary post types (or single pages) where Pinterest "
+"buttons will be displayed:"
+msgstr ""
+"Veuillez choisir les types d'articles nécessaires (ou les pages "
+"individuelles) où les boutons Pinterest seront affichés :"
+
+#: includes/class-pntrst-settings.php:424
+msgid "Show URL for pages"
+msgstr "Afficher l'URL des pages"
+
+#: includes/class-pntrst-settings.php:430
+msgid "Example of the site's pages tree"
+msgstr "Exemple d'arborescence des pages du site"
